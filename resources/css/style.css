@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+/*This styles the main heading*/
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px
+  text-align: center;
+  color: white;
+}
+
+/* Following styles both the links*/
+.app {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.description {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+/*Required only for alignment*/
+.footer {
+  text-align: right;
+}
